@@ -64,7 +64,7 @@
     "@types/clipboard": "1.5.33",
     "@types/highcharts": "4.2.42",
     "angular-l10n": "3.0.3",
-    "angular-resizable-element": "^0.5.5",
+    "angular-resizable-element": "^1.0.0",
     "angular2-busy": "^2.0.3",
     "aspnet-prerendering": "2.0.3",
     "aspnet-webpack": "1.0.28",
