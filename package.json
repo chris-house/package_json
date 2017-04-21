@@ -68,9 +68,9 @@
     "@ngui/auto-complete": "^0.13.2",
     "@types/clipboard": "1.5.33",
     "@types/file-saver": "^0.0.0",
-    "@types/highcharts": "4.2.42",
+    "@types/highcharts": "^4.2.54",
     "@types/lodash": "^4.14.62",
-    "angular-l10n": "3.0.3",
+    "angular-l10n": "^3.0.4",
     "angular-resizable-element": "^1.0.0",
     "angular2-busy": "^2.0.3",
     "aspnet-prerendering": "2.0.3",
@@ -95,7 +95,7 @@
     "optimize-js-plugin": "^0.0.4",
     "preboot": "4.5.2",
     "rxjs": "^5.3.0",
-    "zone.js": "0.8.5"
+    "zone.js": "^0.8.7"
   },
   "devDependencies": {
     "@angular/cli": "^1.0.0",
@@ -104,7 +104,6 @@
     "@types/es6-collections": "0.5.29",
     "@types/es6-promise": "*",
     "@types/hammerjs": "^2.0.34",
-    "@types/highcharts": "4.2.42",
     "@types/jasmine": "2.5.47",
     "@types/jquery": "2.0.41",
     "@types/lscache": "*",
@@ -153,7 +152,7 @@
     "to-string-loader": "1.1.5",
     "ts-helpers": "1.1.2",
     "ts-node": "3.0.2",
-    "tslib": "1.6.0",
+    "tslib": "^1.6.1",
     "tslint": "4.5.1",
     "tslint-loader": "2.1.5",
     "typedoc": "0.5.0",
