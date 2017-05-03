@@ -1,6 +1,6 @@
 {
   "name": "atlas_v2",
-  "version": "0.0.0", 
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "rimraf": "rimraf",
@@ -54,7 +54,7 @@
     "postversion": "git push && git push --tags"
   },
   "dependencies": {
-    "@angular/animations": "4.0.3",
+    "@angular/animations": "4.1.0",
     "@angular/common": "4.1.0",
     "@angular/compiler": "4.1.0",
     "@angular/compiler-cli": "4.1.0",
