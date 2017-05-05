@@ -73,7 +73,7 @@
     "angular-l10n": "^3.0.4",
     "angular-resizable-element": "^1.0.0",
     "angular2-busy": "^2.0.3",
-    "aspnet-prerendering": "2.0.4",
+    "aspnet-prerendering": "^2.0.5",
     "aspnet-webpack": "1.0.29",
     "babel-polyfill": "^6.23.0",
     "bootstrap": "3.3.7",
