@@ -1,4 +1,6 @@
 # package_json
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/crh225/package_json.svg)](https://greenkeeper.io/)
 holder for my package.json so another site can scrape it.
 
 
